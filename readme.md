@@ -1,0 +1,1 @@
+Sample app with SLIM + PHP
